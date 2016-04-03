@@ -16,7 +16,3 @@ function y {
 	n
 }
 l
-Write-Host 'this'
-Write-Host 'logic'
-Write-Host 'is'
-Write-Host 'broken'
